@@ -12,3 +12,6 @@ Prepared for Digital Breakthrough Hackathon
 Such classification helps specialists to save time on classifying large databases of photos. 
 
 Output of working model see in csv file
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Model implemented for the research from 'Pretrained-image-quality-cnn'. GitHub. [https://github.com/jsmith/MyResearchProject] (2022).
