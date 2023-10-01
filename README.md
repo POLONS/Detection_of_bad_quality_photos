@@ -14,4 +14,4 @@ Such classification helps specialists to save time on classifying large database
 Output of working model see in csv file
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-Model implemented in the research from 'Pretrained-image-quality-cnn'. GitHub. [[https://github.com/jsmith/MyResearchProject]](https://github.com/Nem3sisX/pretrained-image-quality-cnn/tree/main)https://github.com/Nem3sisX/pretrained-image-quality-cnn/tree/main (2022).
+Model implemented in the research from 'Pretrained-image-quality-cnn'. GitHub. (https://github.com/Nem3sisX/pretrained-image-quality-cnn/tree/main)https://github.com/Nem3sisX/pretrained-image-quality-cnn/tree/main (2022).
