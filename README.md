@@ -1,0 +1,2 @@
+# Detection_of_bad_quality_photos
+Classification_of_bad_quality_photos
