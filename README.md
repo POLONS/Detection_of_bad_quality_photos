@@ -1,5 +1,5 @@
 # Detection_of_bad_quality_photos
-Detection  and Classification of bad quality photos
+Detection  and Classification of bad quality photos /CNN
 
 Training dataset - фотоматериалами с фотоловушек/photos, установленных в заповеднике на Юго-Западе алтайского края. С помощью представленного решения пользователь получает автоматически отсортированные снимки для последующей работы. Снимки с фотоловушек разделяются на три группы: 
 * некачественные – засвеченные, с  размытием, слишком темные или яркие, 
